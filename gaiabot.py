@@ -3302,7 +3302,7 @@ def run_bot(api_key: str):
 
 def main():
     print("Title: GaiaAI Chatbot")
-    print("Twitter: https://twitter.com/abe_sten")
+    print("bible.gaia.domains")
     api_key = input("Enter your API key: ")
     run_bot(api_key)
 
